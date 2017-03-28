@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "repainting joy cons"
-date:   2017-03-27 22:48:01 -0500
-categories: jekyll update
+title: Switching up the Switch
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Having beaten Zelda: Breath of the Wild, the Nintendo Switch hasn't been used much. After defeating Ganon there was no real drive to go back to Hyrule and I can only repurchase The Binding of Isaac so many times before wanting something new. 
+
+Having seen a lot of posts on [r/nintendoswitch](http://reddit.com/r/nintendoswitch) showing custom Joy Con paint jobs I figured it couldn't be too difficult. After all this is a console in high demand and difficult to get a hold of. If others are risking breaking their $100 controllers it can't be too difficult can it? 
+
+### The Result
+
