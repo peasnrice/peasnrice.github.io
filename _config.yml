@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "PeasNRice"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Andy Evans"
+description              : "A place to put my Hobbies."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "peasnrice/peasnrice.github.io"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Andy Evans"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Hobbyist"
+  location         : "Montreal"
   email            :
   uri              :
   bitbucket        :
