@@ -9,8 +9,11 @@ Having seen a lot of posts on [r/nintendoswitch](http://reddit.com/r/nintendoswi
 
 ### The Equipment
 [Mastercraft Specialty Precision Electornics Bit Set, 66-pc](http://www.canadiantire.ca/en/pdp/mastercraft-specialty-precision-electronics-bit-set-66-pc-0573624p.html) - alright, so I was impatient and wanted to get the Y0 tri-wing screwdriver that you need to open the Switch up and didn't want to wait for shipping... So I ended up getting this set and it worked perfectly, albeit a little overkill as I onlyt needed two of the bits...
+
 [3M Wetordry Sandpaper, 4 x 9-in, 5-pk](http://www.canadiantire.ca/en/pdp/3m-wetordry-sandpaper-4-x-9-in-5-pk-0475844p.html#srp) - I didn't want anything too coarse and figured this was fine enough to remove the top protective coating on the Switch controllers. 
+
 [MTN 94 - RV 207 / Mango](http://www.mtncolors.com/product/mtn-94/) - I heard Montana Gold was the best paint to use, being in Canada Montana Gold isn't available, I was told that this was the next best thing. I picked this up at a local Graffiti Store in Montreal []Le Sino](http://www.lesino.com/)
+
 [MTN 94 Specialty](http://www.montanacolors.com/webapp/spray?id=564) - For the top layer I went with an acrylic Matt varnish
 
 ### The Process
