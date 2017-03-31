@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switching things up
+title: Switching it up
 ---
 Having beaten Zelda: Breath of the Wild, my Nintendo Switch hasn't been used much. After defeating Ganon there was no real drive to go back to Hyrule and I can only repurchase The Binding of Isaac so many times before needing something new. Having seen a lot of posts on [r/nintendoswitch](http://reddit.com/r/nintendoswitch) showing custom Joy Con paint jobs I figured I'd give it a go. I figured it couldn't be so difficuly if so many people are doing it so i gave it a shot.
 <img src="{{ site.baseurl }}assets/img/switch_full_view.jpg">
