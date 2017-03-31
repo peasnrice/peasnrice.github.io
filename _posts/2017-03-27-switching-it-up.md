@@ -21,6 +21,8 @@ First we needed to find a resputable site that explains how to dissassemble the 
 ### Removing, not disconnecting
 Following these tutorials led me to removing components, starting with the haptic feedback motors. These came out fairly easily with a pair of tweezers. Once the motors were out I tried to disconnect the battery but didn't have too much luck. All the components looked quite well insulated so I decided that this wasn't terribly important and continued dissassembling without unplugging any more components. USE A TRAY if you are doing this, there are ~8 screws for each Joy-Con and god help you if you lose one. 
 
+This article is a work in progress... more to come shortly...
+
 
 
 
