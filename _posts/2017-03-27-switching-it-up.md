@@ -3,7 +3,7 @@ layout: post
 title: Switching it up
 ---
 Having beaten Zelda: Breath of the Wild, my Nintendo Switch hasn't been used much. After defeating Ganon there was no real drive to go back to Hyrule and I can only repurchase The Binding of Isaac so many times before needing something new. Having seen a lot of posts on [r/nintendoswitch](http://reddit.com/r/nintendoswitch) showing custom Joy Con paint jobs I figured I'd give it a go. I figured it couldn't be so difficulty if so many people are doing it so i gave it a shot.
-<img src="{{ site.baseurl }}assets/img/switch_full_view.jpg">
+<img src="https://s3.amazonaws.com/peasnrice-images/flat-2048.jpg">
 
 ## The Equipment
 [Mastercraft Specialty Precision Electornics Bit Set, 66-pc](http://www.canadiantire.ca/en/pdp/mastercraft-specialty-precision-electronics-bit-set-66-pc-0573624p.html) - alright, so I was impatient and wanted to get the Y0 tri-wing screwdriver that you need to open the Switch up and didn't want to wait for shipping... So I ended up getting this set and it worked perfectly, albeit a little overkill as I only needed two of the bits...
