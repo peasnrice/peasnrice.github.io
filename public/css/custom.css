@@ -3,6 +3,10 @@
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
+.img-small, .img-medium, .img-large{
+  vertical-align: center;
+}
+
 .img-small {
   display:block;
 }
