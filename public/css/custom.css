@@ -4,7 +4,9 @@
  * with a 25%-wide `.sidebar`.
  */
 .img-small, .img-medium, .img-large{
-  vertical-align: center;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 500px;
 }
 
 .img-small {
