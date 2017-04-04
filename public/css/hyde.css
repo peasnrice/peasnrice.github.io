@@ -126,11 +126,30 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+.img-small {
+  display:block;
+}
+.img-medium {
+  display:none;
+}
+.img-large {
+  display:none;
+}
+
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
+  }
+  .img-small {
+    display:none;
+  }
+  .img-medium {
+    display:block;
+  }
+  .img-large {
+    display:none;
   }
 }
 
@@ -138,6 +157,15 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
+  }
+  .img-small {
+    display:none;
+  }
+  .img-medium {
+    display:none;
+  }
+  .img-large {
+    display:block;
   }
 }
 
