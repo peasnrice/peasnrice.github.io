@@ -37,7 +37,7 @@ I highly recommend taking pictures as you go along to help you with the reassemb
 ### Removing, not disconnecting
 Following these tutorials led me to removing components at first, starting with the haptic feedback motors. These came out fairly easily with a pair of tweezers. 
 
-<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/bremoving-battery-2048.jpg">
+<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/removing-battery-2048.jpg">
 <img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/removing-battery-1024.jpg">
 <img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/removing-battery-640.jpg">
 
