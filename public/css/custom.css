@@ -1,0 +1,38 @@
+/* Container
+ *
+ * Align the contents of the site above the proper threshold with some margin-fu
+ * with a 25%-wide `.sidebar`.
+ */
+.img-small {
+  display:block;
+}
+.img-medium {
+  display:none;
+}
+.img-large {
+  display:none;
+}
+
+@media (min-width: 48em) {
+  .img-small {
+    display:none;
+  }
+  .img-medium {
+    display:block;
+  }
+  .img-large {
+    display:none;
+  }
+}
+
+@media (min-width: 64em) {
+  .img-small {
+    display:none;
+  }
+  .img-medium {
+    display:none;
+  }
+  .img-large {
+    display:block;
+  }
+}

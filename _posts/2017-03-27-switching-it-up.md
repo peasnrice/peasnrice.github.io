@@ -49,7 +49,7 @@ Once the motors were out I tried to disconnect the battery but didn't have too m
 
 Once the components were all removed I had the guts of a functioning set of Joy-Cons. I was a little nervous that something might short whilst handling the device but thankfully this did not happen.
 
-Here's a shot of the left Joy-Cons innards
+Here's a shot of one of the Joy-Cons innards
 <img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/dissassembled-1-2048.jpg">
 <img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/dissassembled-1-1024.jpg">
 <img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/dissassembled-1-640.jpg">
