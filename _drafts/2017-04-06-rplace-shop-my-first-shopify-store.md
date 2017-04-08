@@ -3,7 +3,7 @@ layout: post
 title: r/place Shop - My First Shopify Store
 ---
 
-Luck is often thought to be when preparedness meets opportunity, this was not one of those moments. I decided to make a [Shopify](shopify.com) store based on the creation of [r/place](reddit.com/r/place). 
+Luck is often thought to be when preparedness meets opportunity, this was not one of those moments. I decided to make a [Shopify](https://shopify.com) store based on the creation of [r/place](https://reddit.com/r/place). Welcome to [rplace Shop](https://rplace.shop)
 <img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-2048.jpg">
 <img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-1024.jpg">
 <img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-640.jpg">
@@ -14,14 +14,14 @@ r/place was an interesting idea for April fools, a community created image where
 ## The Project
 Those that know me understand that I love community driven games, projects and ideas so this naturally got me very excited. Unfortunately I was completely unaware that this had been going on until after it had ended and so I was unable to contribute. 
 
-Those who know me know that I work for a Shopify agency called [Diff Agency](diffagency.com) and that every day I speak and hear Shopify. I see people setting up stores and selling all kinds of stuff but never actually have built a store for myself never really knowing what I could sell.
+Those who know me know that I work for a Shopify agency called [Diff Agency](https://diffagency.com) and that every day I speak and hear Shopify. I see people setting up stores and selling all kinds of stuff but never actually have built a store for myself never really knowing what I could sell.
 
-I saw this as an opportunity to put my acquired skills to good use on a pet project. I set out to build a Shopify store that sold r/place merchandise; t-shirts, mugs, hats, pillows etc. Another contributing factor came form a colleague and friend of mine who had recently set up his own store [Bolt Apparel](boltapparel.co/), a clothing store whereby all the designs are original and created by himself. He showed me how easy it is to set up and the best part is that there is no need to handle any inventory at all! Drop shipping is great isn't it?
+I saw this as an opportunity to put my acquired skills to good use on a pet project. I set out to build a Shopify store that sold r/place merchandise; t-shirts, mugs, hats, pillows etc. Another contributing factor came form a colleague and friend of mine who had recently set up his own store [Bolt Apparel](https://boltapparel.co/), a clothing store whereby all the designs are original and created by himself. He showed me how easy it is to set up and the best part is that there is no need to handle any inventory at all! Drop shipping is great isn't it?
 
 ## Printful makes everything easy
-I think one big deterrence for people looking to start selling online is firstly manufacturing a product at high quality and being able to fulfill orders reliably. Thankfully there are companies out there, like [Printful](printful.com) that take care of all of the hassle for you. 
+I think one big deterrence for people looking to start selling online is firstly manufacturing a product at high quality and being able to fulfill orders reliably. Thankfully there are companies out there, like [Printful](https://printful.com) that take care of all of the hassle for you. 
 
-[Printful](printful.com) has a Shopify app that plugs into your Shopify store and handles everything from allowing you to choose the type of product you want to sell; t-shirts, sweaters, posters, mugs etc. from a variety of different vendors. You then upload your own designs and then choose the price point and sizes you want to sell them at. Once created they are then synced with Shopify and appear on your storefront. It's that easy!
+[Printful](https://printful.com) has a Shopify app that plugs into your Shopify store and handles everything from allowing you to choose the type of product you want to sell; t-shirts, sweaters, posters, mugs etc. from a variety of different vendors. You then upload your own designs and then choose the price point and sizes you want to sell them at. Once created they are then synced with Shopify and appear on your storefront. It's that easy!
 
 Now the greatest things about Printful are the following:
 1. Everything is built to order, you do not need to worry about having stock on hand for a specific design as they are manufactured as orders come in. 
