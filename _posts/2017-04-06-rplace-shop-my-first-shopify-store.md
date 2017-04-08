@@ -3,7 +3,7 @@ layout: post
 title: r/place Shop - My First Shopify Store
 ---
 
-Luck is often thought to be when preparedness meets opportunity, this was not one of those moments. I decided to make a [Shopify](https://shopify.com){:target="_blank"} store based on the creation of [r/place](https://reddit.com/r/place){:target="_blank"}. Welcome to [rplace Shop](https://rplace.shop){:target="_blank"}
+Luck is often thought to be when preparedness meets opportunity, this was not one of those moments. I decided to make a [Shopify](https://shopify.com){:target="_blank"} store based on the creation of [r/place](https://reddit.com/r/place){:target="_blank"}. Welcome to [rplace Shop](https://rplace.shop){:target="_blank"}, being able to sell custom t-shirts (and other things) in 3 hours!
 <img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/rplace-shop-2048.jpg">
 <img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/rplace-shop-1024.jpg">
 <img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/rplace-shop-640.jpg">
