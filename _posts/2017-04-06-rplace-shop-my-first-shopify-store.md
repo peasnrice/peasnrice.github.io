@@ -3,25 +3,40 @@ layout: post
 title: r/place Shop - My First Shopify Store
 ---
 
-Luck is often thought to be when preparedness meets opportunity, this was not one of those moments. I decided to make a [Shopify](https://shopify.com) store based on the creation of [r/place](https://reddit.com/r/place). Welcome to [rplace Shop](https://rplace.shop)
-<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-2048.jpg">
-<img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-1024.jpg">
-<img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-640.jpg">
+Luck is often thought to be when preparedness meets opportunity, this was not one of those moments. I decided to make a [Shopify](https://shopify.com){:target="_blank"} store based on the creation of [r/place](https://reddit.com/r/place){:target="_blank"}. Welcome to [rplace Shop](https://rplace.shop){:target="_blank"}
+<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/rplace-shop-2048.jpg">
+<img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/rplace-shop-1024.jpg">
+<img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/rplace-shop-640.jpg">
 
 ## So what is r/place?
 r/place was an interesting idea for April fools, a community created image whereby reddit users could contribute to single colored pixel every 5 minutes to a 1000 x 1000 canvas, it was also possible to overwrite other users pixels. Subreddit communities quickly banded together to create their little piece of history on this giant piece of pixel art and found themselves fighting other communities and trolls for pixel real estate. This went on all weekend and by the end of the experiment a final image was created that was reminiscent of the [Million Dollar Homepage](http://www.milliondollarhomepage.com/) from 2006 albeit a little more modern looking and filled with memes. 
 
+The final r/place image in all it's glory
+<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-2048.jpg">
+<img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-1024.jpg">
+<img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/rplace-final-640.jpg">
+
 ## The Project
 Those that know me understand that I love community driven games, projects and ideas so this naturally got me very excited. Unfortunately I was completely unaware that this had been going on until after it had ended and so I was unable to contribute. 
 
-Those who know me know that I work for a Shopify agency called [Diff Agency](https://diffagency.com) and that every day I speak and hear Shopify. I see people setting up stores and selling all kinds of stuff but never actually have built a store for myself never really knowing what I could sell.
+Those who know me know that I work for a Shopify agency called [Diff Agency](https://diffagency.com){:target="_blank"} and that every day I speak and hear Shopify. I see people setting up stores and selling all kinds of stuff but never actually have built a store for myself never really knowing what I could sell.
 
-I saw this as an opportunity to put my acquired skills to good use on a pet project. I set out to build a Shopify store that sold r/place merchandise; t-shirts, mugs, hats, pillows etc. Another contributing factor came form a colleague and friend of mine who had recently set up his own store [Bolt Apparel](https://boltapparel.co/), a clothing store whereby all the designs are original and created by himself. He showed me how easy it is to set up and the best part is that there is no need to handle any inventory at all! Drop shipping is great isn't it?
+I saw this as an opportunity to put my acquired skills to good use on a pet project. I set out to build a Shopify store that sold r/place merchandise; t-shirts, mugs, hats, pillows etc. Another contributing factor came form a colleague and friend of mine who had recently set up his own store [Bolt Apparel](https://boltapparel.co/){:target="_blank"}, a clothing store whereby all the designs are original and created by himself. He showed me how easy it is to set up and the best part is that there is no need to handle any inventory at all! Drop shipping is great isn't it?
+
+So I span up [rplace Shop](https://rplace.shop) on Shopify and began setting things up.
+
+<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/shopify-dashboard-2048.jpg">
+<img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/shopify-dashboard-1024.jpg">
+<img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/shopify-dashboard-640.jpg">
 
 ## Printful makes everything easy
-I think one big deterrence for people looking to start selling online is firstly manufacturing a product at high quality and being able to fulfill orders reliably. Thankfully there are companies out there, like [Printful](https://printful.com) that take care of all of the hassle for you. 
+I think one big deterrence for people looking to start selling online is firstly manufacturing a product at high quality and being able to fulfill orders reliably. Thankfully there are companies out there, like [Printful](https://printful.com){:target="_blank"} that take care of all of the hassle for you. 
 
-[Printful](https://printful.com) has a Shopify app that plugs into your Shopify store and handles everything from allowing you to choose the type of product you want to sell; t-shirts, sweaters, posters, mugs etc. from a variety of different vendors. You then upload your own designs and then choose the price point and sizes you want to sell them at. Once created they are then synced with Shopify and appear on your storefront. It's that easy!
+[Printful](https://printful.com){:target="_blank"} has a Shopify app that plugs into your Shopify store and handles everything from allowing you to choose the type of product you want to sell; t-shirts, sweaters, posters, mugs etc. from a variety of different vendors. You then upload your own designs and then choose the price point and sizes you want to sell them at. Once created they are then synced with Shopify and appear on your storefront. It's that easy!
+
+<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/printful-created-products-2048.jpg">
+<img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/printful-created-products-1024.jpg">
+<img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/printful-created-products-640.jpg">
 
 Now the greatest things about Printful are the following:
 1. Everything is built to order, you do not need to worry about having stock on hand for a specific design as they are manufactured as orders come in. 
@@ -34,6 +49,18 @@ The bottom line is that Printful allows you to be creative, sell products and no
 Once the products were in place I was still using the out of the box Shopify theme that every store comes with, to call it bland is an understatement. As this is a pet project and is a bit of a silly idea I went with a free theme from the [Shopify Theme Store](https://themes.shopify.com/) and chose one of the free themes available. I ended up going with a theme called [Venture](https://themes.shopify.com/themes/venture/styles/boxing) that seemed decent enough.
 
 using the basic theme settings that came with the theme I was able to get a color scheme that somewhat represented r/space. I think obnoxious was the style I was going for, anyhow it was up and running and was populated with some products. 
+
+Here's what the [featured products](https://rplace.shop/collections/frontpage) look like listed on the site
+
+<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/featured-products-2048.jpg">
+<img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/featured-products-1024.jpg">
+<img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/featured-products-640.jpg">
+
+And here is an example [product page](https://rplace.shop/collections/frontpage/products/pull-place-square-pillow)!
+
+<img class="img-large" src="https://s3.amazonaws.com/peasnrice-images/pillow-2048.jpg">
+<img class="img-medium" src="https://s3.amazonaws.com/peasnrice-images/pillow-1024.jpg">
+<img class="img-small" src="https://s3.amazonaws.com/peasnrice-images/pillow-640.jpg">
 
 ## Store Setup
 So I had a storefront, custom products and all that was left were some setting sunder the hood that would allow people to actually purchase these goods if they wanted to. 
