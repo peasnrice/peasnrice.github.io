@@ -43,3 +43,17 @@
     display:block;
   }
 }
+
+
+@media (min-width: 80em) {
+  .img-small {
+    display:none;
+  }
+  .img-medium {
+    display:none;
+  }
+  .img-large {
+    display:block;
+  }
+  
+}
